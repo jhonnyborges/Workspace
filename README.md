@@ -8,6 +8,9 @@ Sou Analista de Infraestrutura Sênior com mais de 10 Anos de Experiência, trab
 - Bootstrap
 
 🏢 Atualmente trabalho na Central IT Governança Corporativa
+
 🌱 Tenho estudado Javascript e NodeJS
+
 👊 Posso colaborar com Infraestrutura e Desenvolvimento
+
 📧 Meu contato: https://www.linkedin.com/in/jhonny-andreyv-borges-mendoza
