@@ -1,29 +1,66 @@
-## Olá! Eu sou Jhonny Borges, Analista de Infraestrutura Sênior e Aprendiz de Programação! 👋
+# Hi, I'm Jhonny Borges
 
-Sou Analista de Infraestrutura Sênior com mais de 10 Anos de Experiência, trabalho com Virtualização e Cloud, atualmente estou estudando desenvolvimento com ênfase em:
+```
+function dev(name, age, work) {
+        this.name = name;
+        this.age = age;
+        this.work = work;
+      }
+      let jhonnyBorges = new dev('Jhonny Borges', 34, 'Front-end Developer and Senior Infrastructure Analyst');
+      console.log(jhonnyBorges);
+```
 
-- JavaScript, Vue, Vuex, Git, Nuxt, Node JS, Jest, Cypress, Git Flow, Typescript, Tailwind
+### Sobre Mim
+<p>
+    Programador e desenvolvedor Front-end. Formado em Redes de Computadores (UCB-DF) e Certificações de Infraestrutura (LPI, Comptia, VMware, Azure). Gosto de Tocar Violão e Curtir Minha Família nas horas vagas.
+<p>
+    Sempre trabalhei na área de informática e possuo espírito empreendedor, possuo facilidade de trabalhar em grupos, bom relacionamento com as pessoas, responsabilidade e espírito de liderança. 
 
-- 👊 Posso colaborar com Infraestrutura e Front-End
-- 📧 Meu contato: https://www.linkedin.com/in/jhonny-andreyv-borges-mendoza
+### Principais Skills:
 
-<div align="center">
-  <a href="https://github.com/jhonnyborges">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jhonnyborges&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonnyborges&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Jhonny-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Jhonny-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Jhonny-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Jhonny-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Jhonny-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Jhonny-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Jhonny-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=html5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
 
-  
+### Ferramentas
 
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=for-the-badge&logo=adobe-photoshop)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-05122A?style=for-the-badge&logo=windows)&nbsp;
+![microsoft-office](https://img.shields.io/badge/-microsoft_office-05122A?style=for-the-badge&logo=microsoft-office)&nbsp;
+![Linux](https://img.shields.io/badge/-linux-05122a?style=for-the-badge&logo=linux)&nbsp;
 
+### Conhecimentos nas áreas:
 
+![typescript](https://img.shields.io/badge/-typescript-05122A?style=for-the-badge&logo=typescript)&nbsp;
+![Boostrap](https://img.shields.io/badge/-boostrap-05122A?style=for-the-badge&logo=bootstrap)&nbsp;
+![APACHE](https://img.shields.io/badge/-APACHE-05122A?style=for-the-badge&logo=apache)&nbsp;
+![MYSQL](https://img.shields.io/badge/-MYSQL-05122A?style=for-the-badge&logo=MYSQL)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=for-the-badge&logo=markdown)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js)&nbsp;
 
+### Estudando no momento:
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
+
+### Áreas de Interesse:
+
+![React Native](https://img.shields.io/badge/-React_native-05122A?style=for-the-badge&logo=react)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
+![Boostrap](https://img.shields.io/badge/-boostrap-05122A?style=for-the-badge&logo=bootstrap)&nbsp;
+
+### GitHub Analytics:
+
+<p align="left">
+  <img height="145em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jhonnyborges&show_icons=true&theme=dracula"/>
+  <img height="145em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jhonnyborges&layout=compact&langs_count=8&theme=dracula"/>
+</p>
+
+### Jhonny Borges on social media:
+
+<a href="https://www.linkedin.com/in/jhonny-andreyv-borges-mendoza/"><img src="https://img.shields.io/badge/jhonnyborges-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:jhonny.andreyv@gmail.com"><img src="https://img.shields.io/badge/-jhonny.andreyv@gmail.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+<a href="https://instagram.com/martine.oficial"><img src="https://img.shields.io/badge/-@jhonnyborgesof-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
