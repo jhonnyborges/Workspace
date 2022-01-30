@@ -12,7 +12,7 @@ function dev(name, age, work) {
 
 ### Sobre Mim
 <p>
-    Programador e desenvolvedor Front-end. Formado em Redes de Computadores (UCB-DF) e Certificações de Infraestrutura (LPI, Comptia, VMware, Azure). Gosto de Tocar Violão e Curtir Minha Família nas horas vagas.
+    Programador, Desenvolvedor Front-end e Analista de Infraestrutura Sênior. Formado em Redes de Computadores (UCB-DF) e Certificações de Infraestrutura (LPI, Comptia, VMware, Azure). Gosto de Tocar Violão e Curtir Minha Família nas horas vagas.
 <p>
     Sempre trabalhei na área de informática e possuo espírito empreendedor, possuo facilidade de trabalhar em grupos, bom relacionamento com as pessoas, responsabilidade e espírito de liderança. 
 
