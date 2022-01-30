@@ -63,4 +63,4 @@ function dev(name, age, work) {
 <a href="https://www.linkedin.com/in/jhonny-andreyv-borges-mendoza/"><img src="https://img.shields.io/badge/jhonnyborges-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:jhonny.andreyv@gmail.com"><img src="https://img.shields.io/badge/-jhonny.andreyv@gmail.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
-<a href="https://instagram.com/martine.oficial"><img src="https://img.shields.io/badge/-@jhonnyborgesof-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://instagram.com/jhonnyborgesof"><img src="https://img.shields.io/badge/-@jhonnyborgesof-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
