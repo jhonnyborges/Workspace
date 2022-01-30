@@ -29,7 +29,7 @@ function dev(name, age, work) {
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=for-the-badge&logo=adobe-photoshop)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-05122A?style=for-the-badge&logo=windows)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-05122A?style=for-the-badge&logo=microsoft-office)&nbsp;
+![microsoft-office](https://img.shields.io/badge/-microsoft_azure-05122A?style=for-the-badge&logo=microsoft-azure)&nbsp;
 ![Linux](https://img.shields.io/badge/-linux-05122a?style=for-the-badge&logo=linux)&nbsp;
 
 ### Conhecimentos nas áreas:
